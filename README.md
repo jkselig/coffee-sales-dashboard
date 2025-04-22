@@ -37,5 +37,6 @@ This project uses real-world-style coffee sales data to:
 - How to turn raw data into actionable visual insights
 
 ---
+![Dashboard Screenshot](coffee-sales-dashboard.png)
 
 *Created by Jeremy Selig*
